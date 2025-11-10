@@ -1,4 +1,3 @@
-# Recipe_Management_System
 # 🍳 Recipe Management System
 
 <div align="center">
