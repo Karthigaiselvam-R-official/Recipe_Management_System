@@ -185,7 +185,8 @@ Made with ❤️ by Karthigaiselvam R
 
 https://img.shields.io/badge/%F0%9F%8D%B3-Happy_Cooking!-ff69b4
 
-</div> ```
+</div>
+
 Key Updates Made:
 Correct Project Structure - Updated to match your actual file structure
 
