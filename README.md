@@ -172,7 +172,7 @@ python data_loader.py  # Reload data
 We're here to support you!
 
 Channel	Link
-📧 Email	karthigaiselvam@example.com
+📧 Email	karthigaiselvam@gmail.com
 🐛 Issues	GitHub Issues
 </div>
 📜 License
