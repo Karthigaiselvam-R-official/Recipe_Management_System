@@ -80,8 +80,7 @@ recipe_app/
 ├── 💾 recipes.db          # SQLite database file
 ├── 🌐 index.html          # Web interface
 ├── 📄 requirements.txt    # Python dependencies
-├── 📁 data/              # Recipe data files
-│   └── us_recipes_null.json  # Recipe dataset
+├── us_recipes_null.json  # Recipe dataset
 └── 📖 README.md          # Project documentation
 
 🔧 File Descriptions
@@ -171,20 +170,12 @@ python data_loader.py  # Reload data
 We're here to support you!
 
 Channel	Link
-📧 Email	karthigaiselvam@gmail.com
+📧 Email	karthigaiselvamr.cs2022@gmail.com
 🐛 Issues	GitHub Issues
 </div>
-📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 <div align="center">
 ⭐ If you like this project, don't forget to give it a star!
-https://img.shields.io/github/stars/Karthigaiselvam-R-official/Recipe_Management_System?style=social
-
 Made with ❤️ by Karthigaiselvam R
-
-https://img.shields.io/badge/%F0%9F%8D%B3-Happy_Cooking!-ff69b4
-
 </div>
 
 Key Updates Made:
