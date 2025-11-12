@@ -54,7 +54,7 @@ pip install -r requirements.txt
 python app.py
 
 🎯 Usage
-Access the application: Open http://localhost:5000 in your browser
+Access the application: Open http://localhost:5001 in your browser
 
 Load recipe data: Use data_loader.py to import recipes
 
